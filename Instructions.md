@@ -17,7 +17,7 @@ Apache, MySQL and PHP component. You can choose other components based on your r
 
 Step 9: After the installation is complete, you can launch XAMPP and start using the local server environment for web development or testing.
 
-Step 10: open 'xampp-control.exe' folder
+Step 10: open 'xampp' folder
 
 Step 11: find 'htdocs' folder
 
@@ -25,7 +25,7 @@ Step 12: Delete all files in 'htdocs' folder.
 
 Step 13: Add files in folder to htdocs
 
-Step 14: open xmapp
+Step 14: open 'xampp-control.exe'
 
 Step 15: Start Apache &MySQL
 
