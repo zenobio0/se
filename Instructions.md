@@ -29,13 +29,13 @@ Step 14: open 'xampp-control.exe'
 
 Step 15: Start Apache &MySQL
 
-Step 16: Put ‘admin’ button open MySQL
+Step 16: Press ‘admin’ button open MySQL
 
-Step 17: Put ‘New’button
+Step 17: Press ‘New’button
 
 Step 18: Create database Database name ‘student_manage’
 
-Step 19: Put ‘student_manage’
+Step 19: Press ‘student_manage’
 
 Step 20: open ‘import’
 
