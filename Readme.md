@@ -1,3 +1,5 @@
+installation method
+
 Step 1: Download the file 'student (2).zip' on GitHub
 
 Step 2: Unzip file 'student (2).zip'
@@ -45,4 +47,20 @@ Step 22:open the ‘student_management.sql’ file in student (2)
 Step 23:press Import at the bottom
 
 Step 22: Open the browser and go to http://127.0.0.1/
+
+Find login account and password
+
+Step 1: open 'xampp-control.exe'
+
+Step 2: Press ‘admin’ button open MySQL
+
+Step 3: Press ‘student_management’,open ‘student_management’
+
+Step 4: open ‘student_management/student’/open ‘student_management/teacher’
+
+Step 5: username is User ID, password is Password 
+
+
+
+
 
