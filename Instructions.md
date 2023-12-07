@@ -4,7 +4,7 @@ Step 2: Unzip file 'student (2).zip'
 
 Step 3: Download XAMPP
 
-Step 4: Visit the official XAMPP website at https://www.apachefriends.org/index.html & https://gofile.me/72LD2/mkRcTSpmk
+Step 4: Visit the official XAMPP website at https://www.apachefriends.org/index.html & [https://gofile.me/72LD2/mkRcTSpmk](https://gofile.me/72LD2/xGPtgr3AX)
 
 Step 5: On the website, you'll see different versions of XAMPP available for different operating systems. Choose the version that matches your operating system (e.g., Windows, macOS, Linux).
 
